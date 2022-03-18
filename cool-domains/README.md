@@ -18,6 +18,8 @@ npx hardhat help
 
 - https://hardhat.org/advanced/hardhat-runtime-environment.html
 - https://docs.soliditylang.org/en/v0.8.10/types.html#mapping-types
+- https://github.com/OpenZeppelin/openzeppelin-contracts/blob/b0cf6fbb7a70f31527f36579ad644e1cf12fdf4e/contracts/mocks/ERC721URIStorageMock.sol
+- https://eips.ethereum.org/EIPS/eip-721
 
 ## Notes
 
