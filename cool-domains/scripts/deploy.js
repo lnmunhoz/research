@@ -10,7 +10,7 @@ const main = async () => {
     value: hre.ethers.utils.parseEther("0.1"),
   });
   await txn.wait();
-  console.log("Minted domain hellworld.hue");
+  console.log("Minted domain helloworld.hue");
 
   txn = await domainContract.setRecord(
     "helloworld",
